@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         messages.add(new Message("为什么程序员到哪里都背着电脑包",false));
         messages.add(new Message("因为他们没有别的包包。",true));
 
-        messages.add(new Message("程序猿最烦两件事，第一件事是别人要他给自己的代码写文档，第二件呢？",false));
+        messages.add(new Message("程序员最烦两件事，第一件事是别人要他给自己的代码写文档，第二件呢？",false));
         messages.add(new Message("是别人的程序没有留下文档。",true));
 
         messages.add(new Message("如何生成一个随机的字符串？",false));
